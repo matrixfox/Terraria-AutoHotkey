@@ -305,8 +305,8 @@ xQuickStack=0													;x coordinate for Quick Stack menu button when checkin
 yQuickStack=0													;y coordinate for Quick Stack menu button when checking chest content
 
 ;Dimensions of a game block
-nVertToolOffset:=16												;default (16) height of a block
-nHorzToolOffset:=16												;default (16) width of a block
+nVertToolOffset:=15												;default (16) height of a block
+nHorzToolOffset:=15												;default (16) width of a block
 
 ;AutoAttack related numbers
 delayValues=10,20,30,40,50,75,100,150,200,250					;List of delays used to tweak the weapon autoattack speed (see keySelectDelay)
