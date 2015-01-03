@@ -1,0 +1,4 @@
+Terraria-AutoHotkey
+===================
+
+Use Wisely
